@@ -1,0 +1,7 @@
+## Interface: 70100
+## Title: Gamble
+## Author: Zhythe
+## Version: 1.0
+## Last Edited: 10Feb17
+
+gamble.lua
